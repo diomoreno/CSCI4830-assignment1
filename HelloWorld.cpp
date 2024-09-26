@@ -1,9 +1,6 @@
 // Simple C++ program to display "Hello World" 
 // Author: Dio Moreno <diodomoreno@gmail.com>
 // Header file for input output functions 
-//is this working??????
-/askjdfhaksjdhfakjlsdhfakjlsdfh
-asjdhfaksljdhfalkjsdhfjklashdfn
 #include<iostream>  
   
 using namespace std; 
